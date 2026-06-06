@@ -1,0 +1,5 @@
+Measure,Sample Mean 1 (Inf),Sample Variance 1 (Inf),Sample Mean 2 (Fin),Sample Variance 2 (Fin),Sample Mean Difference,SE,DoF,t-value,CI_Lower,CI_Upper,Statistically Significant?
+cycle_time_mean,96.6017,103.8949,73.4229,0.9655,23.1789,1.8696,30,2.0423,19.3607,26.9971,Yes
+waiting_time_mean,36.5813,101.4548,13.6178,0.714,22.9636,1.8454,29,2.0452,19.1892,26.7379,Yes
+attendant_utilization_mean,81.766,3.7146,76.7751,1.8972,4.991,0.4325,52,2.0066,4.1231,5.8589,Yes
+cashier_utilization,8.3669,0.0358,7.8603,0.0247,0.5065,0.0449,56,2.0032,0.4166,0.5965,Yes

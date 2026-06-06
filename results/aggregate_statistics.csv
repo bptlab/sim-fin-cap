@@ -1,0 +1,15 @@
+Model,Measure,Replications,Mean,Std
+Infinite,cycle_time_mean,30,96.6017,10.1929
+Infinite,cycle_time_std,30,48.8999,12.8802
+Infinite,waiting_time_mean,30,36.5813,10.0725
+Infinite,waiting_time_std,30,47.4329,13.0997
+Infinite,turn_away_probability,30,0.0,0.0
+Infinite,attendant_utilization_mean,30,81.766,1.9273
+Infinite,cashier_utilization,30,8.3669,0.1892
+Finite,cycle_time_mean,30,73.4229,0.9826
+Finite,cycle_time_std,30,20.3099,0.5372
+Finite,waiting_time_mean,30,13.6178,0.845
+Finite,waiting_time_std,30,17.4321,0.4845
+Finite,turn_away_probability,30,5.805,0.6416
+Finite,attendant_utilization_mean,30,76.7751,1.3774
+Finite,cashier_utilization,30,7.8603,0.1572
